@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>index</h1>
+      <h1>gateway</h1>
     </main>
   )
 }
