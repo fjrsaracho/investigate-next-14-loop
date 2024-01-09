@@ -1,0 +1,21 @@
+{
+    "name": "investigate-next-14-loop",
+    "version": "1.0.0",
+    "repository": "https://github.com/fjrsaracho/investigate-next-14-loop.git",
+    "private": true,
+    "workspaces": {
+      "packages": [
+        "apps/*"
+      ]
+    },
+    "packageManager": "yarn@1.22.19",
+    "scripts": {
+      "dev": "turbo run dev --parallel",
+      "turbo": "turbo"
+      },
+    "devDependencies": {
+      "turbo": "1.11.0",
+      "concurrently": "8.2.2"
+    }
+  }
+  

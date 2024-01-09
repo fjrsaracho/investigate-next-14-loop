@@ -1,6 +1,6 @@
 {
-  "name": "gateway",
-  "version": "0.1.0",
+  "name": "@investigate-next-14-loop/gateway",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
